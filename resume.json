@@ -1,0 +1,313 @@
+{
+    "basics": {
+        "name": "Zeineb Zhioua",
+        "label": "Phd Student at SAP / Eurecom",
+        "picture": "https://avatars3.githubusercontent.com/u/368264?v=3&s=460",
+        "email": "zeineb.zhioua@gmail.com",
+        "phone": "+33 7 81 11 31 04",
+        "website": "https://zeineb-zhioua.github.io/",
+        "summary": "",
+        "location": {
+            "address": "6 Boulevard Dugommier",
+            "postalCode": "06600",
+            "city": "Antibes",
+            "countryCode": "France",
+            "region": "PACA"
+        },
+        "profiles": [{
+            "network": "linkedin",
+            "username": "aymen-mouelhi",
+            "url": "https://fr.linkedin.com/in/aymenmouelhi"
+        }, {
+            "network": "github",
+            "username": "zeineb",
+            "url": "https://github.com/zeineb"
+        }, {
+            "network": "Twitter",
+            "username": "aymenmouelhi",
+            "url": "https://twitter.com/aymenmouelhi"
+        }, {
+            "network": "stackoverflow",
+            "username": "aymen-mouelhi",
+            "url": "http://stackoverflow.com/users/915591/aymen-mouelhi"
+        }]
+    },
+    "work": [{
+        "company": "SAP",
+        "position": "Phd Student",
+        "website": "http://go.sap.com/index.html",
+        "startDate": "2013-06-01",
+        "summary": "Security focused Phd ...",
+        "highlights": [
+            "Formal specification and verification of security guidelines in software marketplaces and software development lifecycle",
+            "Extension of a Static Code Analysis tool for Java (JOANA)",
+            "Specification and contribution to the Trustworthy Vetting Process project at SAP",
+            "Contribution to the European Funded Project OPTET (OPerational Trustworthiness Enabling Technologies)"
+        ]
+    }, {
+        "company": "Banque de Tunisie",
+        "position": "Software Engineer",
+        "website": "http://www.bt.com.tn/",
+        "startDate": "2010-09-01",
+        "endDate": "2013-04-30",
+        "summary": "Drive, lead and build next generation recruiting platform",
+        "highlights": [
+            "Design and development of Financial Applications",
+            "Consulting and assessment of Banking solutions"
+        ]
+    }, {
+        "company": "Telnet",
+        "position": "Software Engineer",
+        "website": "http://www.groupe-telnet.net/index.php/fr/",
+        "startDate": "2010-09-30",
+        "endDate": "2010-08-01",
+        "summary": "Aurone is a web development company ",
+        "highlights": [
+            "Design and development of a Google Maps based application"
+        ]
+    }, {
+        "company": "Telnet",
+        "position": "End of study Project",
+        "website": "http://www.groupe-telnet.net/index.php/fr/",
+        "startDate": "2010-02-01",
+        "endDate": "2010-06-30",
+        "summary": "Aurone is a web development company ",
+        "highlights": [
+            "Design and development of an online elearning platform for Telnet",
+            "Technologies: Net, MS SQL Server 2005, C#, Red5."
+        ]
+    }, {
+        "company": "Banque de Tunisie",
+        "position": "Internship",
+        "website": "http://www.bt.com.tn/",
+        "startDate": "2009-08-01",
+        "endDate": "2009-08-30",
+        "summary": "Aurone is a web development company ",
+        "highlights": [
+            "Development of a .Net Data Base conversion tool to Excel and XML formats",
+            "Technologies: XML, .Net, MS EXCEL, C#, MS Access."
+        ]
+    }, {
+        "company": "Banque de Tunisie",
+        "position": "Internship",
+        "website": "http://www.bt.com.tn/",
+        "startDate": "2008-08-01",
+        "endDate": "2008-08-30",
+        "summary": "Aurone is a web development company ",
+        "highlights": [
+            "Design and Development of Internships Management Application",
+            "Technologies: .Net, C#, MS Access."
+        ]
+    }, {
+        "company": "Unix Systems and Communication",
+        "position": "Internship",
+        "website": "http://www.unicom.com.tn/",
+        "startDate": "2007-02-01",
+        "endDate": "2007-05-30",
+        "summary": "Aurone is a web development company ",
+        "highlights": [
+            "Design and Development of a recruitment management application",
+            "Technologies: Java/J2EE, EJB, Oracle 10g XE."
+        ]
+    }, {
+        "company": "Arab Tunisian Bank (ATB)",
+        "position": "Internship",
+        "website": "http://www.atb.tn/",
+        "startDate": "2006-07-01",
+        "endDate": "2006-08-30",
+        "summary": "Aurone is a web development company ",
+        "highlights": [
+            "Design and Development of a Special agreement Credit application",
+            "Technologies: VB .Net, SQL Server 2000."
+        ]
+    }, {
+        "company": "Centre National d’Informatique",
+        "position": "Internship",
+        "website": "#",
+        "startDate": "2005-07-01",
+        "endDate": "2005-07-30",
+        "summary": "Aurone is a web development company ",
+        "highlights": [
+            "Development of an Algebra and Mathematical Analysis application",
+            "Technologies: C, C++."
+        ]
+    }],
+    "publications": [{
+        "name": "Static Code Analysis for Software Security: Problems and Approaches",
+        "publisher": "IEEE",
+        "releaseDate": "2011-12-21",
+        "website": "https://www.google.com/patents/US8539599",
+        "summary": "Provided personal information from a user may be determined, the provided personal information being associated with network publication thereof. A comparison of the provided personal information with password-related information may be performed. Based on the comparison, it may be determined that a risk level associated with the network publication relative to password security of at least one password associated with the password-related information exceeds a predetermined risk level. The user may be notified that the network publication of the provided personal information is associated with potential compromise of the password security of the at least one password."
+    }, {
+        "name": "Towards the Verification and Validation of Software Security Properties Using Static Code Analysis",
+        "publisher": "SAP",
+        "releaseDate": "2014-01-10",
+        "website": "https://www.google.com/patents/US20140026045",
+        "summary": "A software system maintains a plurality of procedures in an infrastructure. The procedures include step by step instructions relating to assisting a user of the infrastructure. The system also provides a software tool via a user interface relating to the plurality of procedures. The software tool is configured to permit a user to create a procedure, to activate the procedure, and to publish the availability of the procedure."
+    }, {
+        "name": "Formal Specification and Verification of Security Guidelines",
+        "publisher": "SAP",
+        "releaseDate": "2014-01-10",
+        "website": "https://www.google.com/patents/US20140026045",
+        "summary": "A software system maintains a plurality of procedures in an infrastructure. The procedures include step by step instructions relating to assisting a user of the infrastructure. The system also provides a software tool via a user interface relating to the plurality of procedures. The software tool is configured to permit a user to create a procedure, to activate the procedure, and to publish the availability of the procedure."
+    }],
+    "education": [{
+        "institution": "Eurecom / ParisTech",
+        "area": "Security",
+        "studyType": "PhD Student",
+        "startDate": "2013-06-01",
+        "gpa": "",
+        "courses": [
+            "Formal Methods",
+            "Mobile Applications and Services",
+            "System and Network Security",
+            "Secure Communications"
+        ]
+    }, {
+        "institution": "Ecole Nationale d’Ingenieurs de Tunis",
+        "area": "Information Technology",
+        "studyType": "Master's degree",
+        "startDate": "2007-09-02",
+        "endDate": "2010-07-01",
+        "gpa": "",
+        "courses": [
+            "JEE",
+            "UML",
+            "SQL",
+            "MVC"
+        ]
+    }, {
+        "institution": "Institut Supérieur d’Informatique",
+        "area": "Information Technology",
+        "studyType": "BSc. Computer Science",
+        "startDate": "2004-09-01",
+        "endDate": "2007-06-30",
+        "gpa": "",
+        "courses": [
+            "C++",
+            "Web Development",
+            "XML",
+            "Algorithms"
+        ]
+    }],
+    "volunteer": [{
+        "organization": "SAP",
+        "position": "SAP Developers Conference DKOM Speaker",
+        "website": "http://go.sap.com/index.html",
+        "startDate": "2016-03-08",
+        "summary": "Presentation of SAP Business Data Extractor Solution",
+        "highlights": [
+            "Todo"
+        ]
+    }, {
+        "organization": "SAP",
+        "position": "Co-author in SAP Business Data Extractor",
+        "website": "http://go.sap.com/index.html",
+        "startDate": "2016-01-03",
+        "summary": "Brainstorming and Improvement of the SAP Business Data Extractor",
+        "highlights": [
+            "Establishment of the business model for SAP Business Data Extractor",
+            "Participate in meeting with interested customers"
+        ]
+    }, {
+        "organization": "myhive",
+        "position": "Product Manager",
+        "website": "http://myhive.strikingly.com/",
+        "startDate": "2013-08-01",
+        "endDate": "2015-03-01",
+        "summary": "myhive is an application to identify users' interests from their social profiles",
+        "highlights": [
+            "Put in place architecture for web and mobile application",
+            "Develop Node JS, Angular JS and an Android application for the platfome"
+        ]
+    }],
+    "awards": [{
+        "title": "First place in the InnoDays’2015 event at SAP",
+        "date": "2015-11-14",
+        "awarder": "SAP Innovation",
+        "summary": "Development of a Connected Shop Window Project"
+    }],
+    "skills": [{
+        "name": "Methodologies",
+        "level": "Master",
+        "keywords": [
+            "Scrum",
+            "Lean Startup"
+        ]
+    }, {
+        "name": "Front-end Development",
+        "level": "Master",
+        "keywords": [
+            "jQuery",
+            "AngularJS",
+            "SAP UI5",
+            "React",
+            "Cross-browser development"
+        ]
+    }, {
+        "name": "Back-end Development",
+        "level": "Master",
+        "keywords": [
+            "Node.js",
+            "Java",
+            "PHP",
+            "Restful API"
+        ]
+    }, {
+        "name": "Data Modeling",
+        "level": "Advanced",
+        "keywords": [
+            "MySQL",
+            "MongoDB",
+            "PL/SQL",
+            "ORM"
+        ]
+    }, {
+        "name": "Versioning",
+        "level": "Advanced",
+        "keywords": [
+            "Git"
+        ]
+    }, {
+        "name": "Server and Hosting Environment",
+        "level": "Master",
+        "keywords": [
+            "Linux Shell Scripting",
+            "Apache",
+            "Nginx",
+            "AWS"
+        ]
+    }],
+    "languages": [{
+        "language": "English",
+        "fluency": "Bilingual proficiency"
+    }, {
+        "language": "French",
+        "fluency": "Bilingual proficiency"
+    }, {
+        "language": "Arabic",
+        "fluency": "Native Speaker"
+    }, {
+        "language": "Italian",
+        "fluency": "Intermediate"
+    }, {
+        "language": "Spanish",
+        "fluency": "Intermediate"
+    }, {
+        "language": "Chinese",
+        "fluency": "Beginner"
+    }],
+    "interests": [{
+        "name": "Travel",
+        "keywords": [
+            "Meet people",
+            "Discover"
+        ]
+    }, {
+        "name": "Wildlife",
+        "keywords": [
+            "Whales",
+            "Sharks"
+        ]
+    }]
+}
