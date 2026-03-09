@@ -28,11 +28,52 @@
 			"url": "https://twitter.com/zeinebzhioua"
 		}]
 	},
-	"work": [{
+	"work": [
+		{
+		"company": "SAP Labs France",
+		"position": "Development and support engineer",
+		"website": "http://go.sap.com/index.html",
+		"startDate": "2021-03-01",
+		"summary": "Verification and Validation of compliance of developed software to security requirements",
+		"highlights": [
+		"Public sector management with all the required conditions"
+		]},
+		{
+        "company": "SAP Labs France",
+		"position": "Security engineer",
+		"website": "http://go.sap.com/index.html",
+		"startDate": "2018-09-01",
+		"enddate":"28/02/2021",
+		"summary": "Verification and Validation of compliance of developed software to security requirements, Training SAP colleagues to use static code analysis solutions",
+		"highlights": [
+		"Public sector management with all the required conditions"
+		]},
+		{
+        "company": "ActiveEon",
+		"position": "Development and support engineer",
+		"website": "http://go.sap.com/index.html",
+		"startDate": "2017-06-01",
+		"enddate":"28/02/2021",
+		"summary": "Managing and developing workflows",
+		"highlights": [
+		"Workflows in cloud computing context"
+		]},
+		{
+        "company": "Orange",
+		"position": "Security auditor",
+		"website": "http://go.sap.com/index.html",
+		"startDate": "2017-05-31",
+		"enddate":"28/02/2021",
+		"summary": "Performing security audits on developed ",
+		"highlights": [
+		"Reporting foud vulnerabilities to developing teams qnd to security unit."
+		]},
+		{
 		"company": "SAP",
 		"position": "PhD student in Static Code Analysis for the formal verification of security guidelines",
 		"website": "http://go.sap.com/index.html",
 		"startDate": "2013-06-01",
+		"enddate":"31/12/2016",
 		"summary": "Verification and Validation of compliance of developed software to security requirements",
 		"highlights": [
 			"Formal specification and verification of security guidelines in software marketplaces and software development lifecycle",
